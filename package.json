@@ -1,5 +1,5 @@
 {
-  "name": "typed-scss-modules",
+  "name": "@Nickhoyer/typed-scss-modules",
   "version": "0.0.0",
   "description": "TypeScript type definition generator for SCSS CSS Modules",
   "main": "index.js",
